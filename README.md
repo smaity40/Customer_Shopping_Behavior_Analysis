@@ -30,9 +30,10 @@ The project covers the complete data analytics workflow, including data cleaning
 * Business Insights & Recommendations
 
 
-# 📊 Dashboard Preview
+# 📊 Power Bi Dashboard
 
-![Customer Shopping Behavior Dashboard](dashboard image.png")
+**Preview:**
+![Dashboard Preview](dashboard_image.png)
 
 ## 🚀 Skills Demonstrated
 
