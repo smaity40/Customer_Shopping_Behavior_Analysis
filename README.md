@@ -32,7 +32,7 @@ The project covers the complete data analytics workflow, including data cleaning
 
 # 📊 Dashboard Preview
 
-![Customer Shopping Behavior Dashboard]("C:\Users\Subhajit maity\OneDrive\Desktop\New folder\dashboard.png")
+![Customer Shopping Behavior Dashboard](dashboard image.png")
 
 ## 🚀 Skills Demonstrated
 
